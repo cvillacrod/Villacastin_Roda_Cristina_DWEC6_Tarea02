@@ -1,4 +1,4 @@
-<h1>DWEC06 - Tarea 02</h1>h1>
+<h1>DWEC06 - Tarea 02</h1>
 
 ENUNCIADO DE LA TAREA:
 
